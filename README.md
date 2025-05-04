@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># AutoRecon - Linux System Audit Tool
 
-**AutoRecon** is a lightweight Bash script designed for beginner to intermediate Linux users to perform a basic system audit. It gathers key system information, checks user activity, analyzes network settings, and scans for outdated packages — all from one script.
+**AutoRecon** is a lightweight Bash script made  for beginner to intermediate Linux users to perform a basic system audit. It gathers key system information, checks user activity, analyzes network settings, and scans for outdated packages it is only for learning purpose . for the people who have just started their journey in this field — all from one script.
 
 ---
 
