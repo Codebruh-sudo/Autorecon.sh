@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 ```bash
 chmod +x autorecon.sh
 
+
+## 2. RUN THE SCRIPT
+
+    ```bash
+./autorecon.sh
+
